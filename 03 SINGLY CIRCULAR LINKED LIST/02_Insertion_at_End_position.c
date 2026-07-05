@@ -62,7 +62,7 @@ int main(){
             }
             else{
                 printf("Invalid Input! please Enter only integer\n");
-                if (getchar() != '\n');
+                while(getchar() != '\n');
             }
         }
         switch (num){
