@@ -86,7 +86,7 @@ int main(){
                     break;
                 }
                 else{
-                    printf("Invalid range! Enter any number from 0 to 2.\n");
+                    printf("Invalid range! Enter any number from 0 to 3.\n");
                 }
             }
             else{
