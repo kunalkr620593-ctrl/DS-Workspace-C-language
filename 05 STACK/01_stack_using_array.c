@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 // Maximum size of stack
-#define MAX 5
+#define MAX 10
 
 // Array to store stack elements
 int stack[MAX];
